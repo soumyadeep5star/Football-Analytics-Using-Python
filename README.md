@@ -5,4 +5,5 @@ A passing network in football is a visual representation of the connections and 
 
 The centrality index in football is a metric used to measure the importance or influence of a player on the field.
 
-Please Check out my article on Medium to Know more:
+Please Check out my article on Football Analysis in Medium to Know more:
+https://medium.com/@soumyadeep5star/visualizing-passing-network-and-centrality-index-of-football-using-isl-2021-22-data-using-python-942f89a1fe7e
