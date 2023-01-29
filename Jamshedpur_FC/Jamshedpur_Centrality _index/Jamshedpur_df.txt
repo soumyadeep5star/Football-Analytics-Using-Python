@@ -1,0 +1,23 @@
+Centralisation index against Kerala Blasters is  0.07111111111111111
+Centralisation index against Kerala Blasters is  0.14324324324324325
+Centralisation index against ATK Mohun Bagan is  0.058823529411764705
+Centralisation index against Odisha is  0.08106995884773663
+Centralisation index against Chennaiyin is  0.1
+Centralisation index against Mumbai City is  0.08195488721804511
+Centralisation index against Kerala Blasters is  0.043478260869565216
+Centralisation index against Bengaluru is  0.061467889908256884
+Centralisation index against Goa is  0.07314814814814814
+Centralisation index against NorthEast United is  0.045588235294117645
+Centralisation index against Hyderabad is  0.13680555555555557
+Centralisation index against NorthEast United is  0.11639344262295082
+Centralisation index against Chennaiyin is  0.07654320987654321
+Centralisation index against Kerala Blasters is  0.0375
+Centralisation index against Odisha is  0.05714285714285714
+Centralisation index against East Bengal is  0.07943262411347518
+Centralisation index against Bengaluru is  0.12
+Centralisation index against Goa is  0.06575342465753424
+Centralisation index against East Bengal is  0.08689320388349514
+Centralisation index against Hyderabad is  0.08571428571428572
+Centralisation index against Mumbai City is  0.10909090909090909
+Centralisation index against ATK Mohun Bagan is  0.0810126582278481       
+Average Centrality index is : 0.08237124704261105

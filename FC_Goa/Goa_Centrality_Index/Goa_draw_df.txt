@@ -1,0 +1,8 @@
+Centralisation index against Kerala Blasters is  0.06553398058252427      
+Centralisation index against Odisha is  0.09141914191419141
+Centralisation index against NorthEast United is  0.07690058479532164     
+Centralisation index against Kerala Blasters is  0.08846153846153847      
+Centralisation index against Bengaluru is  0.06923076923076923
+Centralisation index against Odisha is  0.14444444444444443
+Centralisation index against Hyderabad is  0.09453376205787781
+Average Centrality index is : 0.0900748887838096

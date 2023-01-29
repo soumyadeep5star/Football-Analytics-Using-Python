@@ -1,0 +1,6 @@
+Centralisation index against Chennaiyin is  0.06836734693877551
+Centralisation index against Goa is  0.04
+Centralisation index against ATK Mohun Bagan is  0.10915492957746478      
+Centralisation index against ATK Mohun Bagan is  0.040625
+Centralisation index against Goa is  0.0672
+Average Centrality index is : 0.06506945530324806

@@ -1,0 +1,7 @@
+Centralisation index against East Bengal is  0.06521739130434782
+Centralisation index against NorthEast United is  0.11371428571428571
+Centralisation index against East Bengal is  0.07763157894736843
+Centralisation index against NorthEast United is  0.10127659574468086     
+Centralisation index against Bengaluru is  0.09
+Centralisation index against Mumbai City is  0.06666666666666667
+Average Centrality index is : 0.08575108639622492

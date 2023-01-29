@@ -1,0 +1,10 @@
+Centralisation index against Hyderabad is  0.10216216216216216
+Centralisation index against Jamshedpur is  0.08333333333333333
+Centralisation index against Mumbai City is  0.08687258687258688
+Centralisation index against ATK Mohun Bagan is  0.06580882352941177
+Centralisation index against East Bengal is  0.06462585034013606
+Centralisation index against ATK Mohun Bagan is  0.10242914979757085      
+Centralisation index against Mumbai City is  0.09710982658959537
+Centralisation index against NorthEast United is  0.06257861635220126     
+Centralisation index against Jamshedpur is  0.10067567567567567
+Average Centrality index is : 0.08506622496140816

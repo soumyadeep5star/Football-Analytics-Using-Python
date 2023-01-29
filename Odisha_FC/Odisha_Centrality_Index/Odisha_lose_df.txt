@@ -1,0 +1,10 @@
+Centralisation index against Jamshedpur is  0.19473684210526315
+Centralisation index against Bengaluru is  0.0656441717791411
+Centralisation index against Mumbai City is  0.07536231884057971
+Centralisation index against Hyderabad is  0.10338983050847457
+Centralisation index against Jamshedpur is  0.05277777777777778
+Centralisation index against Hyderabad is  0.07906976744186046
+Centralisation index against Kerala Blasters is  0.07054263565891473      
+Centralisation index against Chennaiyin is  0.06666666666666667
+Centralisation index against Kerala Blasters is  0.07045454545454545      
+Average Centrality index is : 0.08651606180369151

@@ -1,0 +1,8 @@
+Centralisation index against NorthEast United is  0.07925925925925927     
+Centralisation index against Hyderabad is  0.11582278481012659
+Centralisation index against ATK Mohun Bagan is  0.12722772277227723      
+Centralisation index against Mumbai City is  0.1
+Centralisation index against Goa is  0.04742268041237113
+Centralisation index against Hyderabad is  0.06823529411764706
+Centralisation index against Odisha is  0.08811881188118811
+Average Centrality index is : 0.08944093617898133

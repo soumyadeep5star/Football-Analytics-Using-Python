@@ -1,0 +1,9 @@
+Centralisation index against East Bengal is  0.06647398843930635
+Centralisation index against Odisha is  0.0645021645021645
+Centralisation index against Jamshedpur is  0.0834319526627219
+Centralisation index against Kerala Blasters is  0.08439716312056737
+Centralisation index against Chennaiyin is  0.08452380952380953
+Centralisation index against Chennaiyin is  0.10490196078431373
+Centralisation index against Mumbai City is  0.12448979591836734
+Centralisation index against NorthEast United is  0.11352941176470588     
+Average Centrality index is : 0.09078128083949458

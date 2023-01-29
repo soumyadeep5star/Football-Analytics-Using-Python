@@ -1,0 +1,2 @@
+Centralisation index against Goa is  0.12666666666666668
+Average Centrality index is : 0.12666666666666668

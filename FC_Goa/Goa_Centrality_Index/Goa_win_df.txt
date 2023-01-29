@@ -1,0 +1,5 @@
+Centralisation index against Chennaiyin is  0.06666666666666667
+Centralisation index against Chennaiyin is  0.13091603053435114
+Centralisation index against Bengaluru is  0.10792682926829268
+Centralisation index against East Bengal is  0.09411764705882353
+Average Centrality index is : 0.0999067933820335

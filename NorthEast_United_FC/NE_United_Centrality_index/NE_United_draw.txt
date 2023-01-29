@@ -1,0 +1,6 @@
+Centralisation index against Mumbai City is  0.06812227074235808
+Centralisation index against Goa is  0.13375
+Centralisation index against East Bengal is  0.02857142857142857
+Centralisation index against Kerala Blasters is  0.08333333333333333      
+Centralisation index against Mumbai City is  0.05116279069767442
+Average Centrality index is : 0.07298796466895888

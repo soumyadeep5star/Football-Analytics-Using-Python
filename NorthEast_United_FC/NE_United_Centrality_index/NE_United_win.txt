@@ -1,0 +1,4 @@
+Centralisation index against Bengaluru is  0.12158273381294964
+Centralisation index against Goa is  0.075
+Centralisation index against East Bengal is  0.11875
+Average Centrality index is : 0.10511091127098321

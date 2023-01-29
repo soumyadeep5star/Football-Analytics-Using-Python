@@ -1,0 +1,5 @@
+Centralisation index against Kerala Blasters is  0.14324324324324325      
+Centralisation index against Bengaluru is  0.061467889908256884
+Centralisation index against Chennaiyin is  0.07654320987654321
+Centralisation index against Mumbai City is  0.10909090909090909
+Average Centrality index is : 0.09758631302973811

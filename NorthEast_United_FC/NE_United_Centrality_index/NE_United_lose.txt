@@ -1,0 +1,13 @@
+Centralisation index against ATK Mohun Bagan is  0.08940397350993377
+Centralisation index against Kerala Blasters is  0.0881578947368421
+Centralisation index against Hyderabad is  0.08201438848920864
+Centralisation index against Jamshedpur is  0.12740384615384615
+Centralisation index against Jamshedpur is  0.1410958904109589
+Centralisation index against Chennaiyin is  0.07925925925925927
+Centralisation index against ATK Mohun Bagan is  0.10454545454545454      
+Centralisation index against Odisha is  0.08432432432432432
+Centralisation index against Odisha is  0.05555555555555555
+Centralisation index against Bengaluru is  0.075
+Centralisation index against Chennaiyin is  0.11043478260869566
+Centralisation index against Hyderabad is  0.1037037037037037
+Average Centrality index is : 0.09507492277481522

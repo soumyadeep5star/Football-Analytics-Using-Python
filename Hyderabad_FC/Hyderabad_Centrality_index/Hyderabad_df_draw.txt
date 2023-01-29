@@ -1,0 +1,7 @@
+Centralisation index against Kerala Blasters is  0.07023809523809524
+Centralisation index against East Bengal is  0.08615384615384615
+Centralisation index against Chennaiyin is  0.08857142857142856
+Centralisation index against Jamshedpur is  0.05575221238938053
+Centralisation index against Goa is  0.06417910447761194
+Centralisation index against ATK Mohun Bagan is  0.12395209580838323
+Average Centrality index is : 0.08147446377312428

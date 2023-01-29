@@ -1,0 +1,13 @@
+Centralisation index against ATK Mohun Bagan is  0.07585034013605442
+Centralisation index against Mumbai City is  0.053164556962025315
+Centralisation index against Goa is  0.07483443708609272
+Centralisation index against Bengaluru is  0.13624161073825503
+Centralisation index against NorthEast United is  0.07470588235294118
+Centralisation index against Kerala Blasters is  0.09130434782608696
+Centralisation index against East Bengal is  0.11557788944723618
+Centralisation index against Odisha is  0.051555555555555556
+Centralisation index against Odisha is  0.048466257668711654
+Centralisation index against Bengaluru is  0.05426829268292683
+Centralisation index against NorthEast United is  0.0586046511627907
+Centralisation index against Mumbai City is  0.06097560975609756
+Average Centrality index is : 0.07462911928123117

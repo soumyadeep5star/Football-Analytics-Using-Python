@@ -1,0 +1,6 @@
+Centralisation index against Kerala Blasters is  0.07111111111111111      
+Centralisation index against Kerala Blasters is  0.0375
+Centralisation index against Bengaluru is  0.12
+Centralisation index against East Bengal is  0.08689320388349514
+Centralisation index against Hyderabad is  0.08571428571428572
+Average Centrality index is : 0.08024372014177839
