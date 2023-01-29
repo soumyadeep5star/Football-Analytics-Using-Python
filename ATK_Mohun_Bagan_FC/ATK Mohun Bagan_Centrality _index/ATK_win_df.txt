@@ -1,0 +1,12 @@
+Centralisation index against Hyderabad is  0.06417910447761194
+Centralisation index against Chennaiyin is  0.06981132075471698
+Centralisation index against NorthEast United is  0.038755980861244016
+Centralisation index against Hyderabad is  0.054929577464788736
+Centralisation index against East Bengal is  0.03235294117647059
+Centralisation index against Bengaluru is  0.09205298013245033
+Centralisation index against Goa is  0.06233766233766234
+Centralisation index against NorthEast United is  0.10610687022900764
+Centralisation index against Goa is  0.04598540145985401
+Centralisation index against Kerala Blasters is  0.08309859154929577
+Centralisation index against East Bengal is  0.03793103448275862
+Average Centrality index is : 0.06250376953871463

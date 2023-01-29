@@ -1,0 +1,5 @@
+Centralisation index against Hyderabad is  0.07254901960784314
+Centralisation index against Jamshedpur is  0.06591928251121076
+Centralisation index against Mumbai City is  0.03333333333333333
+Centralisation index against Jamshedpur is  0.058653846153846154
+Average Centrality index is : 0.057613870401558354
